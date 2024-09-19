@@ -1,2 +1,2 @@
 # Design_Analysis_Algorithm
-All Practicals Of DAA Ae Present Here!
+All Practicals Of DAA Are Present Here!
